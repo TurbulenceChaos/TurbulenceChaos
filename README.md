@@ -33,5 +33,5 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 **Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDEs, Asymptotic perturbation method
 
 ## CONTACT INFO
- 1. **Email:** [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn)
- 2. **GitHub:** [TurbulenceChaos](https://github.com/TurbulenceChaos)
+Email: [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn) \
+GitHub: [TurbulenceChaos](https://github.com/TurbulenceChaos)
