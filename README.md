@@ -20,7 +20,7 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 
 **Currently, I am looking for a PhD opportunity in Fluid Mechanics**, and am eager to deepen my understanding of partial differential equations and manifold theory during my PhD studies.
 
-## LANGUAGES, SKILLS & INTERESTS
+## SKILLS & INTERESTS
 **Technical Skills:**
 1. OpenFOAM/C++/STAR-CCM+ (Use Finite volume method to calculate sloshing flows)
 2. Python/MATLAB (Analyze experimental data and use AI model to identify wave profiles)
