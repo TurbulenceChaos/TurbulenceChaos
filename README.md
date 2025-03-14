@@ -32,8 +32,8 @@ During my Master’s studies, I focused on the sloshing dynamics of liquid tanks
 3. Wolfram Mathematica/Maxima (Analyze Faraday waves with perturbation method)
 4. Emacs/LaTeX (Make presentations)
 5. Abaqus/MSC Patran/Nastran (Finite element method)
-8. SolidWorks/CATIA/HyperMesh/ICEM (Geometry modeling and meshing)
-9. Paraview/Blender (Flows rendering）
+6. SolidWorks/CATIA/HyperMesh/ICEM (Geometry modeling and meshing)
+7. Paraview/Blender (Flows rendering）
 
 **Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDEs, Asymptotic perturbation method
 
