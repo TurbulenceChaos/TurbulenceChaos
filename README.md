@@ -24,8 +24,6 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 During my Master’s studies, I focused on the sloshing dynamics of liquid tanks and Faraday waves. My thesis, titled “Investigations of Sloshing Characteristics in a Two-dimensional Rectangular Tank Under Coupled Pitch and Heave Excitations,” allowed me to explore theoretical, experimental, and numerical aspects of fluid dynamics. Using Wolfram Mathematica, I derived linear potential flow solutions for sloshing through the separation of variables method. For nonlinear Faraday waves, I applied Floquet theory and harmonic balance perturbation methods with Maxima, a computer algebra system, to solve Mathieu equations, identifying unstable regions for sloshing flows under vertical excitations. I also conducted sloshing experiments on a three-degree-of-freedom shaking table, using Python and MATLAB to analyze pressure data and automatically identify wave profiles through AI models. Additionally, I employed OpenFOAM (C++) to simulate sloshing flows under higher-order frequencies and larger displacements, and I used Blender to visualize and render turbulent flows. These experiences have strengthened my ability to analyze and solve nonlinear hydrodynamic problems.
 
 ## LANGUAGES, SKILLS & INTERESTS
-**Language**: English (IELTS 6.5), Mandarin (native)
-
 **Technical Skills:**
 1. OpenFOAM/C++/STAR-CCM+ (Use Finite volume method to calculate sloshing flows)
 2. Python/MATLAB (Analyze experimental data and use AI model to identify wave profiles)
