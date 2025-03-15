@@ -30,7 +30,7 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 6. **SolidWorks/CATIA/HyperMesh/ICEM** – Model and mesh offshore structures.
 7. **Paraview/Blender** – Render turbulent flow simulations.
 
-**Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDEs, Asymptotic perturbation method
+**Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDEs, Asymptotic methods and perturbation theory
 
 ## CONTACT INFO
 Email: [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn) \
