@@ -34,4 +34,5 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 
 ## CONTACT INFO
 Email: [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn) \
-GitHub: [TurbulenceChaos](https://github.com/TurbulenceChaos)
+GitHub: [TurbulenceChaos](https://github.com/TurbulenceChaos) \
+Blog: [https://turbulencechaos.github.io/](https://turbulencechaos.github.io/)
