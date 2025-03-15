@@ -26,7 +26,7 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 2. Python/MATLAB (Analyze experimental data and use AI model to identify wave profiles)
 3. Wolfram Mathematica/Maxima (Analyze Faraday waves with perturbation method)
 4. Emacs/LaTeX (Make presentations)
-5. Abaqus/MSC Patran/Nastran (Finite element method)
+5. Abaqus/MSC Patran/Nastran (Use Finite element method to analyze strength of offshore structures)
 6. SolidWorks/CATIA/HyperMesh/ICEM (Geometry modeling and meshing)
 7. Paraview/Blender (Flows rendering）
 
