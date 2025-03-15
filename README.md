@@ -23,12 +23,12 @@ My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at 
 ## SKILLS & INTERESTS
 **Technical Skills:**
 1. OpenFOAM/C++/STAR-CCM+ (Use Finite volume method to calculate sloshing flows)
-2. Python/MATLAB (Analyze experimental data and use AI model to identify wave profiles)
+2. Python/MATLAB (Analyze experimental data and use AI model to automatically identify wave profiles)
 3. Wolfram Mathematica/Maxima (Analyze Faraday waves with perturbation method)
 4. Emacs/LaTeX (Make presentations)
-5. Abaqus/MSC Patran/Nastran (Use Finite element method to analyze strength of offshore structures)
-6. SolidWorks/CATIA/HyperMesh/ICEM (Geometry modeling and meshing)
-7. Paraview/Blender (Flows rendering）
+5. Abaqus/MSC Patran/Nastran (Use Finite element method to calculate strength of offshore structures)
+6. SolidWorks/CATIA/HyperMesh/ICEM (offshore structures modeling and meshing)
+7. Paraview/Blender (Render turbulent flows）
 
 **Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDEs, Asymptotic perturbation method
 
