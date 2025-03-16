@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## ABOUT ME
 My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at the School of Naval Architecture and Ocean Engineering. Throughout my academic journey, I have developed a deep passion for mathematics, particularly in areas such as nonlinear differential equations, perturbation methods, calculus of variations, dynamical systems, and chaos theory.
 
-**Currently, I am looking for a PhD opportunity in Fluid Mechanics**, and am eager to deepen my understanding of partial differential equations and manifold theory during my PhD studies.
-
 ## SKILLS & INTERESTS
 **Technical Skills:**
 1. **OpenFOAM/C++/STAR-CCM+** – Use the finite volume method to simulate sloshing flows.
