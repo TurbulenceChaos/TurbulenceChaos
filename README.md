@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ## ABOUT ME
-My name is Peng Peng, and I am a Master’s student in Engineering Mechanics at the School of Naval Architecture and Ocean Engineering. Throughout my academic journey, I have developed a deep passion for mathematics, particularly in areas such as nonlinear differential equations, perturbation methods, calculus of variations, dynamical systems, and chaos theory.
+My name is Peng Peng, and I am a Master's student in Engineering Mechanics at the School of Naval Architecture and Ocean Engineering. Throughout my academic journey, I have developed a strong passion for mathematics, particularly in nonlinear differential equations, perturbation theory, calculus of variations, dynamical systems, and chaos theory.
 
-## SKILLS & INTERESTS
-**Technical Skills:**
-1. **OpenFOAM/C++/STAR-CCM+** – Use the finite volume method to simulate sloshing flows.
-2. **Python/MATLAB** – Analyze experimental data and apply AI models to automatically identify wave profiles.
-3. **Wolfram Mathematica/Maxima CAS** – Study Faraday waves using the perturbation method.
-4. **Emacs/LaTeX** – Create presentations.
-5. **Abaqus/Patran/Nastran** – Apply the finite element method to evaluate the structural strength of offshore platforms.
-6. **SolidWorks/CATIA/HyperMesh/ICEM** – Model and mesh offshore structures.
-7. **Paraview/Blender** – Render turbulent flow simulations.
+## Technical Skills
+- **OpenFOAM/C++/STAR-CCM+** - Use the finite volume method to simulate sloshing flows.
+- **Python/MATLAB/Julia** - Analyze experimental data and apply AI models to automatically identify wave profiles.
+- **Wolfram Mathematica/Maxima CAS** - Study Faraday waves using the harmonic balance perturbation method.
+- **Abaqus/Patran/Nastran** - Apply the finite element method to evaluate the structural strength of offshore platforms and marines.
+- **SolidWorks/CATIA/HyperMesh/ICEM** - Model and mesh offshore structures and marines.
+- **Paraview/Blender** - Render turbulent flow simulations.
+- **Emacs Lisp/LaTeX** - Create presentations.
 
-**Research Interests:** Sloshing flows, Faraday waves, Wave energy converter, Turbulent flows, PDE, Perturbation theory
+## Research Interests
+- Sloshing flows, Faraday waves, turbulent flows
+- Fluid-structure interactions, flow-induced vibrations and control
+- Wave energy converter, Wind Turbine Floaters
+- Computational fluid dynamics, machine learning and deep learning
+- Partial differential equations, numerical method, asymptotic and perturbation theory
 
 ## CONTACT INFO
 Email: [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn) \
