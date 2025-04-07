@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ABOUT ME
+## About Me
 My name is Peng Peng, and I am a Master's student in Engineering Mechanics at the School of Naval Architecture and Ocean Engineering. Throughout my academic journey, I have developed a strong passion for mathematics, particularly in nonlinear differential equations, perturbation theory, calculus of variations, dynamical systems, and chaos theory.
 
 ## Technical Skills
@@ -34,7 +34,7 @@ My name is Peng Peng, and I am a Master's student in Engineering Mechanics at th
 - Computational fluid dynamics, machine learning and deep learning
 - Partial differential equations, numerical method, asymptotic and perturbation theory
 
-## CONTACT INFO
+## Contact Information
 Email: [211110103110@stu.just.edu.cn](mailto:211110103110@stu.just.edu.cn) \
-GitHub: [TurbulenceChaos](https://github.com/TurbulenceChaos) \
-Blog: [https://turbulencechaos.github.io/](https://turbulencechaos.github.io/)
+GitHub: [https://github.com/TurbulenceChaos](https://github.com/TurbulenceChaos) \
+Math Blog: [https://turbulencechaos.github.io/](https://turbulencechaos.github.io/)
