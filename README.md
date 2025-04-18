@@ -30,7 +30,7 @@ My name is Peng Peng, and I am a Master's student in Engineering Mechanics at th
 ## Research Interests
 - Sloshing flows, Faraday waves, turbulent flows
 - Fluid-structure interactions, flow-induced vibrations and control
-- Wave energy converter, Wind Turbine Floaters
+- Wave energy converter, wind Turbine Floaters
 - Computational fluid dynamics, machine learning and deep learning
 - Partial differential equations, numerical method, asymptotic and perturbation theory
 
